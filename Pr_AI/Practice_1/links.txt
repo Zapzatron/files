@@ -1,0 +1,4 @@
+contract.csv: https://github.com/Zapzatron/files/raw/main/Pr_AI/Practice_1/contract.csv
+internet.csv: https://github.com/Zapzatron/files/raw/main/Pr_AI/Practice_1/internet.csv
+personal.csv: https://github.com/Zapzatron/files/raw/main/Pr_AI/Practice_1/personal.csv
+phone.csv: https://github.com/Zapzatron/files/raw/main/Pr_AI/Practice_1/phone.csv
